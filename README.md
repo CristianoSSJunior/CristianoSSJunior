@@ -1,16 +1,15 @@
-## Hi there 👋
+# Bem vindo ao meu perfil! - Welcome to my profile!
+- Aprendendo Python, C e HTML. - Learning Python, C and HTML.
+- Pretendo me tornar desenvolvedor Full-Stack - 
+  
+## ⚡️ Stats
 
-<!--
-**CristianoSSJunior/CristianoSSJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<div align=center>
+  <img width=465 src="https://github-readme-stats.vercel.app/api?username=CristianoSSJunior&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Cristiano's GitHub Stats" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CristianoSSJunior&theme=transparent&border_radius=10&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat&card_width=390" alt="GitHub Streak" /></a> 
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=CristianoSSJunior&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Cristiano's Most Used Languages" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>

@@ -1,6 +1,12 @@
 # Bem vindo ao meu perfil! - Welcome to my profile!
 - Aprendendo Python, C e HTML. - Learning Python, C and HTML.
-- Pretendo me tornar desenvolvedor Full-Stack - 
+- Pretendo me tornar desenvolvedor Full-Stack -
+
+</br>
+<div align="center">
+  <img src="assets/computer-work" style="width:20%; height:auto">
+</div>
+  
   
 ## ⚡️ Stats
 

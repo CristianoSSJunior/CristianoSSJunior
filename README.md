@@ -4,7 +4,7 @@
 
 </br>
 <div align="center">
-  <img src="Assets/anime.gif" style="width:100%; height:auto">
+  <img src="Assets/computer-work.gif" style="width:100%; height:auto">
 </div>
   
   
